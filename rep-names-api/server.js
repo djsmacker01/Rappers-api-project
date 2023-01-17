@@ -7,6 +7,7 @@ const rappers = {
     age: 46,
     birthName: "William Leonard Roberts II",
     birthLocation: "Clarksdale, Mississippi, U.S.",
+    
   },
 
   "Chance the Rapper": {
